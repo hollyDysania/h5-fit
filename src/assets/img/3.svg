@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="28px" viewBox="0 0 27 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>橙/我的/选中</title>
+    <desc>Created with Sketch.</desc>
+    <g id="店铺装修" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="橙色" transform="translate(-315.000000, -621.000000)">
+            <g id="编组备份-7" transform="translate(0.000000, 618.000000)">
+                <g id="红/我的/未选中" transform="translate(315.000000, 3.000000)">
+                    <g id="橙/我的/选中">
+                        <rect id="矩形" x="0" y="0" width="27" height="27"></rect>
+                        <path d="M13.5,3 C17.6421356,3 21,6.35786438 21,10.5 C21,13.1130934 19.6636372,15.4140625 17.6370591,16.7567598 L20.7156863,22.5294118 C20.975585,23.0167218 20.7912316,23.6224542 20.3039216,23.8823529 C20.1590914,23.9595957 19.9974742,24 19.8333333,24 L7.16666667,24 C6.61438192,24 6.16666667,23.5522847 6.16666667,23 C6.16666667,22.8358592 6.20707098,22.6742419 6.28431373,22.5294118 L9.36294089,16.7567598 C7.33636283,15.4140625 6,13.1130934 6,10.5 C6,6.35786438 9.35786438,3 13.5,3 Z" id="形状结合" fill="#FF7700"></path>
+                        <polygon id="三角形备份" fill="#FFFFFF" transform="translate(13.500000, 13.500000) scale(1, -1) translate(-13.500000, -13.500000) " points="13.5 11.5 17 15.5 10 15.5"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
